@@ -16,6 +16,22 @@ En esta sección se encuentra los proyectos a realizar en los talleres semanales
 
 > se agregarán los demas en lo que avanza el curso
 
+  * Proyecto 01  
+   Autor: Tomás  
+   [Link a mi página web](https://www.google.com)
+
+  * Proyecto 02  
+   Autor: --  
+   [Link a mi página web](https://www.google.com)
+
+  * Proyecto 03  
+   Autor: --  
+   [Link a mi página web](https://www.google.com)
+
+  * Proyecto 04  
+   Autor: --  
+   [Link a mi página web](https://www.google.com)
+
 ## About us
 
 
@@ -42,6 +58,11 @@ Fuente: [3D Modeling- Wikipedia](https://en.wikipedia.org/wiki/3D_modeling), [Ru
 Fuente: [3D Printing - Wikipedia](https://es.wikipedia.org/wiki/Impresi%C3%B3n_3D), [Roberson](https://ultimaker.com/es/campaign/what-is-3d-printing)
 
 [Guía de Markdown](https://www.markdownguide.org/basic-syntax)
+
+### Wenzel Lab  
+   [Twitter Wenzel lab](https://twitter.com/WenzelLab?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
+   ![alt text](images/I-PSFzNq_400x400.jpg "Logo Title Text 1")
+
 
 ## Contact us
 #### Para mayor información, contactar mediante:
