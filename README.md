@@ -18,17 +18,17 @@ Somos un equipo mutidiciplinario, con integrantes de Ingeniería Biológica y m�
 #### Tobias
 Bioingeniería <br>
 Magíster (2013) y PhD (2017) en la University of Cambridge <br>
-[Sitio web]
+[Sitio web]()
 
 #### Pierre
 Ingeniería Electronica <br>
 Magíster (2018) en Informática Biomédica en la Universidad peruana Cayetano Heredia <br>
-[Sitio web]
+[Sitio web]()
 
 #### Fernan
 Ingeniería Biológica
 Doctorado (2009) en Ciencias Biológicas en la University of Cambridge <br>
-[Sitio web]
+[Sitio web]()
 
 ### Estudiantes
 
@@ -36,12 +36,12 @@ Doctorado (2009) en Ciencias Biológicas en la University of Cambridge <br>
 Ingeniería Civil Mecánica <br>
 Major Mecánica/ Mecatrónica <br>
 4to año <br>
-[Sitio web]
+[Sitio web]()
 
 #### Matías
 Diseñador Industrial <br>
 Proyecto Librehub <br>
-[Sitio web]
+[Sitio web]()
 
 #### Beatriz
 Ingeniería Civil Mecánica <br>
