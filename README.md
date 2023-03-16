@@ -1,7 +1,7 @@
 # Homepage
 Página web del curso IBM2026 Prototyping for Bioengineers
 
-> Esta es una página en construcción. Para mayor información revisar el archivo `README`
+> Esta es una página en construcción.
 
 ## Projects
 
